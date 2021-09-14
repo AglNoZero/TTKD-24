@@ -7,6 +7,7 @@
 - `Fetch` và `Pull` về trước mỗi phiên làm việc
 - Không trực tiếp thay đổi nội dung file do người khác `Commit`
 - Trong mỗi bài tập/đồ án tạo 1 thư mục nhỏ mang tên mình rồi `Commit` và `Push` mọi nội dung thuộc phần của mình vào đấy
+- Cứ commit thẳng vào `main` vì mình không xài trò chia `branch`
 - Github Desktop xài ngon nên khuyến khích dùng 🐧
 - `Commit` và `Push` xong nhắc các thành viên khác qua FB nhe, tại đếch thằng nào để ý mail từ Github đâu :v
 

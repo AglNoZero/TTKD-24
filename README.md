@@ -1,12 +1,10 @@
-# HTTT Phục Vụ Trí Tuệ Kinh Doanh
-
 ## Tài liệu môn học
 - https://drive.google.com/drive/folders/1sjFRmU4Qq99F8XuI9i2BABRh8diqPjUG
 ## Bài tập - Seminar - Đồ án (Phải kiểm tra thường xuyên)
 - https://drive.google.com/drive/folders/1ur7uuLdrB56g234QCWEhhE9C3bwh4sQN
 
 ## Quy tắc commit change
-- Pull về trước mỗi phiên làm việc
+- Fetch và Pull về trước mỗi phiên làm việc
 - Không trực tiếp thay đổi nội dung file do người khác commit
 - Trong mỗi bài tập/đồ án tạo 1 thư mục nhỏ mang tên mình và commit mọi nội dung thuộc phần của mình vào đấy
 - Github Desktop xài ngon nên khuyến khích dùng 🐧

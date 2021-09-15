@@ -1,0 +1,7 @@
+- Data warehousing bao gồm một kiến ​​trúc và quy trình hoàn chỉnh (quá trình thiết kế DWH/cơ sở dữ liệu, quá trình ETL), trong khi data warehouse là dữ liệu được lưu trữ trong cơ sở dữ liệu ở dạng thứ nguyên, bảng dữ kiện, bảng tra cứu, bảng dữ kiện tổng hợp.
+- Data warehousing là quá trình xây dựng và sử dụng một data warehouse. Một data warehouse được xây dựng bằng cách tích hợp dữ liệu từ nhiều nguồn không đồng nhất mà hỗ trợ báo cáo phân tích, truy vấn có cấu trúc và ra quyết định. Data warehousing liên quan đến việc làm sạch dữ liệu, tích hợp dữ liệu và hợp nhất dữ liệu. 
+
+Refs:
+https://www.tutorialspoint.com/dwh/dwh_data_warehousing.htm#:~:text=A%20data%20warehouse%20is%20constructed,data%20integration%2C%20and%20data%20consolidations
+
+http://www.geekinterview.com/question_details/35430

@@ -11,6 +11,16 @@
 - Github Desktop xài ngon nên khuyến khích dùng 🐧
 - `Commit` và `Push` xong nhắc các thành viên khác qua FB nhe, tại đếch thằng nào để ý mail từ Github đâu :v
 
+## Quy tắc viết tài liệu
+- Tham chiếu đầy đủ rõ ràng
+- Well... Làm việc thêm vài hôm là mình sẽ đưa ra được quy tắc đầy đủ, hiện tại chỉ có thế :viên
+
+## Quy tắc thiết kế slide
+- Màu sắc ít và không thay đổi nhiều, cùng một theme
+- Hình ảnh phải liên quan đến nội dung
+- Thu gọn ý chính của slide thành 1 cụm từ, các cụm từ phải đồng bộ với nhau về mặt ngữ pháp
+- Nguyên tắc 7x7: 7 dòng 1 slide, 7 từ một dòng
+
 ## Thành viên nhóm
 - Phạm Văn Minh Phương (X)    `18120227`
 - Trương Công Quốc Cường      `18120299`

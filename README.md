@@ -12,7 +12,8 @@
 - `Commit` và `Push` xong nhắc các thành viên khác qua FB nhe, tại đếch thằng nào để ý mail từ Github đâu :v
 
 ## Quy tắc viết tài liệu
-- Tham chiếu đầy đủ rõ ràng
+- Ngắn gọn, súc tích, đầy đủ, rõ ràng
+- Tham chiếu đầy đủ
 - Well... Làm việc thêm vài hôm là mình sẽ đưa ra được quy tắc đầy đủ, hiện tại chỉ có thế :viên
 
 ## Quy tắc thiết kế slide

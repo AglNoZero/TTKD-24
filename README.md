@@ -3,6 +3,14 @@
 ## Bài tập - Seminar - Đồ án (Phải kiểm tra thường xuyên)
 - https://drive.google.com/drive/folders/1ur7uuLdrB56g234QCWEhhE9C3bwh4sQN
 
+## Tài liệu thực hành (Đồ án)
+  ### Đề + Data + Tiêu chí đánh giá đồ án
+  - https://drive.google.com/drive/folders/10qRdgifj1udqIE-QIoucYtQtFSZcFPTp
+  ### Tài liệu hướng dẫn thực hành + Code SQL
+  - https://drive.google.com/drive/folders/1AWMUs99Mv5t7AVoZa2-sw6t6PnXx1v79?usp=sharing
+  ### Video hướng dẫn thực hành
+  - https://drive.google.com/drive/folders/1R-FvD5VG5PBr_UKm8lFdhoFkb0qXFzhC?usp=sharing
+
 ## Quy tắc commit change
 - `Fetch` và `Pull` về trước mỗi phiên làm việc
 - Không trực tiếp thay đổi nội dung file do người khác `Commit`

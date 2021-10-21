@@ -5,11 +5,13 @@
 
 ## Tài liệu thực hành (Đồ án)
   ### Đề + Data + Tiêu chí đánh giá đồ án
-  - https://drive.google.com/drive/folders/10qRdgifj1udqIE-QIoucYtQtFSZcFPTp
+  - https://drive.google.com/drive/folders/1URCW59T1mn7bTv-Bo3WfW1eGF1VUG-NO?usp=sharing
   ### Tài liệu hướng dẫn thực hành + Code SQL
   - https://drive.google.com/drive/folders/1AWMUs99Mv5t7AVoZa2-sw6t6PnXx1v79?usp=sharing
   ### Video hướng dẫn thực hành
   - https://drive.google.com/drive/folders/1R-FvD5VG5PBr_UKm8lFdhoFkb0qXFzhC?usp=sharing
+  ### Video Seminar
+  - https://drive.google.com/drive/folders/1ZlO8uxx0WdQMxuWKQbtIBF0h6YMp-Ew4?usp=sharing
 
 ## Quy tắc commit change
 - `Fetch` và `Pull` về trước mỗi phiên làm việc

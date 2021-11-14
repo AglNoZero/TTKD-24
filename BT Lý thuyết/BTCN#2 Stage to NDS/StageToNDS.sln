@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "StageToNDS", "StageToNDS\StageToNDS.dtproj", "{91D5EF1D-1877-453B-8650-92AD107AFCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D5EF1D-1877-453B-8650-92AD107AFCDE}.Development|Default.ActiveCfg = Development
+		{91D5EF1D-1877-453B-8650-92AD107AFCDE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC9B413-9C67-4555-A676-E3B3DA4765A8}
+	EndGlobalSection
+EndGlobal

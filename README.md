@@ -1,4 +1,4 @@
-## Tài liệu môn học
+## Tài liệu môn học + Record các buổi học
 - https://drive.google.com/drive/folders/1sjFRmU4Qq99F8XuI9i2BABRh8diqPjUG
 ## Bài tập - Seminar - Đồ án (Phải kiểm tra thường xuyên)
 - https://drive.google.com/drive/folders/1ur7uuLdrB56g234QCWEhhE9C3bwh4sQN

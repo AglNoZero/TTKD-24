@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AdventureWorks2008 Mining", "AdventureWorks2008 OLAP\AdventureWorks2008 Mining.dwproj", "{C3EDEE1F-EBD2-4866-8870-BDFB13FD81E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3EDEE1F-EBD2-4866-8870-BDFB13FD81E3}.Development|Default.ActiveCfg = Development
+		{C3EDEE1F-EBD2-4866-8870-BDFB13FD81E3}.Development|Default.Build.0 = Development
+		{C3EDEE1F-EBD2-4866-8870-BDFB13FD81E3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0390AF32-EC19-4707-AF09-267546811B49}
+	EndGlobalSection
+EndGlobal

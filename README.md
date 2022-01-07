@@ -14,7 +14,7 @@
   - https://drive.google.com/drive/folders/1R-FvD5VG5PBr_UKm8lFdhoFkb0qXFzhC?usp=sharing
   ### Video Seminar
   - https://drive.google.com/drive/folders/1ZlO8uxx0WdQMxuWKQbtIBF0h6YMp-Ew4?usp=sharing
-  ### DATH DDS
+  ### DATH DDS (Bản 98%). Bản 100% nhớ up Git
   - https://drive.google.com/file/d/1988YYIJahLcTSz-mj1613mRzKmsnAryQ/view
 
 ## Quy tắc commit change

@@ -2,6 +2,8 @@
 - https://drive.google.com/drive/folders/1sjFRmU4Qq99F8XuI9i2BABRh8diqPjUG
 ## Bài tập - Seminar - Đồ án (Phải kiểm tra thường xuyên)
 - https://drive.google.com/drive/folders/1ur7uuLdrB56g234QCWEhhE9C3bwh4sQN
+## File docs ôn tập thi cuối kì
+- https://docs.google.com/document/d/1549RkUekTivRrgEVlLAn0z5O1ttn_20KMOn2Xlexto8/edit
 
 ## Tài liệu thực hành (Đồ án)
   ### Đề + Data + Tiêu chí đánh giá đồ án
@@ -12,6 +14,8 @@
   - https://drive.google.com/drive/folders/1R-FvD5VG5PBr_UKm8lFdhoFkb0qXFzhC?usp=sharing
   ### Video Seminar
   - https://drive.google.com/drive/folders/1ZlO8uxx0WdQMxuWKQbtIBF0h6YMp-Ew4?usp=sharing
+  ### DATH DDS
+  - https://drive.google.com/file/d/1988YYIJahLcTSz-mj1613mRzKmsnAryQ/view
 
 ## Quy tắc commit change
 - `Fetch` và `Pull` về trước mỗi phiên làm việc

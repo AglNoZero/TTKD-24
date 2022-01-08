@@ -16,7 +16,8 @@
   - https://drive.google.com/drive/folders/1ZlO8uxx0WdQMxuWKQbtIBF0h6YMp-Ew4?usp=sharing
   ### DATH DDS (Bản 98%). Bản 100% nhớ up Git
   - https://drive.google.com/file/d/1988YYIJahLcTSz-mj1613mRzKmsnAryQ/view
-
+  ### Báo cáo 24_DATH
+  - https://docs.google.com/document/d/1tDSLMzMvltdZx-b7-G6qiMgCeCHz3wgo/edit
 ## Quy tắc commit change
 - `Fetch` và `Pull` về trước mỗi phiên làm việc
 - Không trực tiếp thay đổi nội dung file do người khác `Commit`
